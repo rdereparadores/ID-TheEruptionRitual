@@ -1,0 +1,11 @@
+{
+    "asset": "e67b2c9481dd7b6489cf13d72a37edfc",
+    "fileName": "019abd81-13d7-77ab-aa6c-ad0faeaff2af_Preview.png",
+    "prompt": "metal, case, lowpoly, cartoon",
+    "negativePrompt": "",
+    "model": "44ec3749-963a-44b1-aa54-dc19f6ed8ab2",
+    "modelName": "Unity Texture2D",
+    "customSeed": 1033128071,
+    "w3CTraceId": "caed4680d51d535cedfc5ef517c5ae71",
+    "refinementMode": "Generation"
+}

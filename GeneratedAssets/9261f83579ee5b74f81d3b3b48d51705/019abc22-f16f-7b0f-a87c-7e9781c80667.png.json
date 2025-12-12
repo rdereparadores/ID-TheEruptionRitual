@@ -1,0 +1,20 @@
+{
+    "asset": "9261f83579ee5b74f81d3b3b48d51705",
+    "fileName": "019abc22-f16f-7b0f-a87c-7e9781c80667.png",
+    "prompt": "Textuta para una rueda de candado numérico",
+    "negativePrompt": "",
+    "model": "5b5b2af1-6ea4-4266-b087-cc9f3bf4f450",
+    "modelName": "Flux.1 Dev",
+    "customSeed": -1,
+    "w3CTraceId": "a35c5557249a2c5f245aeb94f2c3f616",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

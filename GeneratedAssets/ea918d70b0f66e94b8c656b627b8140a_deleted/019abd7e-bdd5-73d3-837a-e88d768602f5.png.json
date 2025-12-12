@@ -1,0 +1,20 @@
+{
+    "asset": "ea918d70b0f66e94b8c656b627b8140a",
+    "fileName": "019abd7e-bdd5-73d3-837a-e88d768602f5.png",
+    "prompt": "textura para caja fuerte metálica rectangular",
+    "negativePrompt": "",
+    "model": "5b5b2af1-6ea4-4266-b087-cc9f3bf4f450",
+    "modelName": "Flux.1 Dev",
+    "customSeed": -1,
+    "w3CTraceId": "8c6c1c2c7834cbe4c7dea9a414488385",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

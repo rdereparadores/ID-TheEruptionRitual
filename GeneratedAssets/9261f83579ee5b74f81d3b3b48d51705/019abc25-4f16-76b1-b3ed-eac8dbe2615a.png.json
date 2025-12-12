@@ -1,0 +1,20 @@
+{
+    "asset": "9261f83579ee5b74f81d3b3b48d51705",
+    "fileName": "019abc25-4f16-76b1-b3ed-eac8dbe2615a.png",
+    "prompt": "Textura para rueda de candado, con 5 posiciones: un cuadrado, un triángulo, un círculo, un hexágono y una estrella.",
+    "negativePrompt": "",
+    "model": "9b6d7135-dd33-43ae-b148-cd1212ca7052",
+    "modelName": "16-bit Pixel",
+    "customSeed": -1,
+    "w3CTraceId": "97177501727cbdfae6793d2225f08ac0",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

@@ -1,0 +1,20 @@
+{
+    "asset": "9261f83579ee5b74f81d3b3b48d51705",
+    "fileName": "019abc29-4397-73c7-97bf-f60f954f6d69.png",
+    "prompt": "Textura para rueda de candado en vertical, con 5 posiciones: un cuadrado, un triángulo, un círculo, un hexágono y una estrella.",
+    "negativePrompt": "",
+    "model": "8236ed86-a78c-421f-9aeb-d62831026d89",
+    "modelName": "GPT Image 1 - Medium",
+    "customSeed": -1,
+    "w3CTraceId": "3e1f7a65723849f65d45b4140856cc5e",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

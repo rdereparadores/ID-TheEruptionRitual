@@ -1,0 +1,11 @@
+{
+    "asset": "b58f64e3ddbf2454f9e211878581d1bf",
+    "fileName": "019abc49-336b-7331-906c-129cff46aaea_Preview.png",
+    "prompt": "estrella negra en fondo blanco",
+    "negativePrompt": "",
+    "model": "44ec3749-963a-44b1-aa54-dc19f6ed8ab2",
+    "modelName": "Unity Texture2D",
+    "customSeed": 1696230063,
+    "w3CTraceId": "76fb4ce9c4adbbb425b2e536b0f3a3f2",
+    "refinementMode": "Generation"
+}

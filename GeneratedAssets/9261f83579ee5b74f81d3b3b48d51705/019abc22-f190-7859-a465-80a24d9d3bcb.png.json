@@ -1,0 +1,20 @@
+{
+    "asset": "9261f83579ee5b74f81d3b3b48d51705",
+    "fileName": "019abc22-f190-7859-a465-80a24d9d3bcb.png",
+    "prompt": "Textuta para una rueda de candado numérico",
+    "negativePrompt": "",
+    "model": "0409c144-da57-44a7-b531-72bc9a32fa4f",
+    "modelName": "GPT Image 1 - High",
+    "customSeed": -1,
+    "w3CTraceId": "8d8cbb717ff24990673aa8e31b64d8a3",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

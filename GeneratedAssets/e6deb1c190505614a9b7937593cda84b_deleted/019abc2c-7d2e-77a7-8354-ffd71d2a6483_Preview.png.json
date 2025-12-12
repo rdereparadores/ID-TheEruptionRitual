@@ -1,0 +1,11 @@
+{
+    "asset": "e6deb1c190505614a9b7937593cda84b",
+    "fileName": "019abc2c-7d2e-77a7-8354-ffd71d2a6483_Preview.png",
+    "prompt": "Textura para cilindro para una rueda de candado con 5 posiciones: cuadrado, círculo, triángulo, pentágono y estrella.",
+    "negativePrompt": "",
+    "model": "44ec3749-963a-44b1-aa54-dc19f6ed8ab2",
+    "modelName": "Unity Texture2D",
+    "customSeed": 1264948240,
+    "w3CTraceId": "de47e74c24ad1a81f7d070a11ef937d3",
+    "refinementMode": "Generation"
+}

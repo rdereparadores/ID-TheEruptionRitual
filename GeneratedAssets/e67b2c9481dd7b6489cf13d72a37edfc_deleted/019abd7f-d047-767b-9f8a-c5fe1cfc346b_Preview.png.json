@@ -1,0 +1,11 @@
+{
+    "asset": "e67b2c9481dd7b6489cf13d72a37edfc",
+    "fileName": "019abd7f-d047-767b-9f8a-c5fe1cfc346b_Preview.png",
+    "prompt": "metal, industrial, lock, case",
+    "negativePrompt": "",
+    "model": "44ec3749-963a-44b1-aa54-dc19f6ed8ab2",
+    "modelName": "Unity Texture2D",
+    "customSeed": 1853588072,
+    "w3CTraceId": "2fbb4189d4aef4431673863edf82ee9e",
+    "refinementMode": "Generation"
+}
